@@ -5,12 +5,11 @@ This is a simple React authentication app using a Node.js backend and MySQL data
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone https://github.com/your-username/react-authentication-app.git
 
     Install dependencies:
-
-    bash
+    
 
     # Navigate to the backend directory
     cd backend
@@ -24,28 +23,24 @@ This is a simple React authentication app using a Node.js backend and MySQL data
 Backend
 
     Navigate to the backend directory:
-
-    bash
+    
 
 cd backend
 
 Run the Node.js server using nodemon:
 
-bash
 
     nodemon server.js
 
 Frontend
 
     Navigate to the frontend directory:
-
-    bash
+    
 
 cd frontend
 
 ## Run the React app:
 
-bash
 
     npm run dev
 
