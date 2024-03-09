@@ -41,5 +41,5 @@ This is a simple React authentication app using a Node.js backend and MySQL data
 
 When prompted for login credentials, use the following:
 
-    Email: example@gmail.com
+    Email: example@gmai.com
     Password: example
