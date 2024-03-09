@@ -20,27 +20,18 @@ This is a simple React authentication app using a Node.js backend and MySQL data
     npm install
 
 ## Usage
-Backend
+# Backend
 
     Navigate to the backend directory:
     
-
-cd backend
-
-Run the Node.js server using nodemon:
-
+    Run the Node.js server using nodemon:
 
     nodemon server.js
 
-Frontend
+
+# Frontend
 
     Navigate to the frontend directory:
-    
-
-cd frontend
-
-## Run the React app:
-
 
     npm run dev
 
