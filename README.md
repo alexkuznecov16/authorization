@@ -6,40 +6,36 @@ This is a simple React authentication app using a Node.js backend and MySQL data
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/react-authentication-app.git
+   git clone https://github.com/alexkuznecov16/authentication.git
 
     Install dependencies:
-    
-
-    # Navigate to the backend directory
-    cd backend
     npm install
-
-    # Navigate to the frontend directory
-    cd ../frontend
-    npm install
+   ```
 
 ## Usage
-# Backend
+# Database
 
     Navigate to the backend directory:
+    ```
+    cd ./src/server
+    ```
     
     Run the Node.js server using nodemon:
 
+    ```
     nodemon server.js
+    ```
 
 
 # Frontend
 
-    Navigate to the frontend directory:
-
     npm run dev
-
-    Access the app at http://localhost:3000 in your browser.
 
 ## Login Credentials
 
 When prompted for login credentials, use the following:
 
+```
     Email: example@gmai.com
     Password: example
+```
