@@ -16,15 +16,15 @@ This is a simple React authentication app using a Node.js backend and MySQL data
 # Database
 
     Navigate to the backend directory:
-    ```
+    
     cd ./src/server
-    ```
+    
     
     Run the Node.js server using nodemon:
 
-    ```
+    
     nodemon server.js
-    ```
+    
 
 
 # Frontend
